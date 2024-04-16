@@ -56,10 +56,6 @@ int main() {
             std::cout << " " << std::endl;
             std::cout << "Hit ENTER to quit...";
             std::cout << " " << std::endl;
-  /*          std::string line_quit;
-            std::getline(std::cin, line_quit);
-            if (line_quit.empty())
-                break;*/
         }
     }
 
